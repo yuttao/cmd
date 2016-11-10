@@ -2,4 +2,5 @@
 Linux课设
 
 使用cmake 
-doc文档是课设报告
+
+pdf文档是课设报告
